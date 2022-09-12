@@ -1,0 +1,4 @@
+a Devops engineer provide pipeline between developer and customer
+continuous integration and continuous deployment
+amazon virtual private cloud
+amazon ec2 instance
