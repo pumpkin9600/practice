@@ -2,3 +2,7 @@ a Devops engineer provide pipeline between developer and customer
 continuous integration and continuous deployment
 amazon virtual private cloud
 amazon ec2 instance
+hey this is monday 
+the first working day
+this time is precious
+
