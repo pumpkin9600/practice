@@ -6,3 +6,4 @@ hey this is monday
 the first working day
 this time is precious
 hey
+merge conflict
